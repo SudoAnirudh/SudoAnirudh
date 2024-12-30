@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on various open-source projects.
+- 🔭 I’m currently working on various AI-ML projects.
 - 🌱 I’m currently learning advanced algorithms and machine learning.
 - 👯 I’m looking to collaborate on open-source projects and innovative tech solutions.
 - 💬 Ask me about web development, Python, JavaScript, and anything tech-related.
@@ -58,11 +58,17 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 💼 Projects
 
-### Project 1: Open Source Contribution
+### Project 1: Intrusion Detection System Using ML
 
 - **Description:** Contributed to the XYZ open-source project to improve feature ABC.
 - **Technology Used:** Python, Django
-- **Repository:** [GitHub Link](https://github.com/SudoAnirudh/xyz-project)
+- **Repository:** [GitHub Link](https://github.com/SudoAnirudh/Intrusion-Detection-System-Using-ML)
+
+### Project 1: Feature-Extraction
+
+- **Description:** Contributed to the XYZ open-source project to improve feature ABC.
+- **Technology Used:** Python, Django
+- **Repository:** [GitHub Link](https://github.com/SudoAnirudh/Feature-Extraction)
 
 ### Project 2: Personal Website
 
