@@ -1,46 +1,75 @@
-<img align="right" src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" height="160px" width="auto">
+# Hi there, I'm Anirudh! 👋
 
-<h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px">Hello There, I'm <a href="https://sidbelbase.me">Anirudh S.</a></h1>
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, open source, and technology.
 
-<h3 align="left">I seek to contribute to this world with my simple inventions.</h3>
+## 🚀 About Me
 
+- 🔭 I’m currently working on various open-source projects.
+- 🌱 I’m currently learning advanced algorithms and machine learning.
+- 👯 I’m looking to collaborate on open-source projects and innovative tech solutions.
+- 💬 Ask me about web development, Python, JavaScript, and anything tech-related.
+- 📫 How to reach me: [Email](mailto:anirudh@example.com)
+- ⚡ Fun fact: I love solving puzzles and playing chess.
 
+## 🛠️ My Skill Set
 
-<a target="_blank" href="https://twitter.com/a_n_i_r_u_d_h_s">
-<img src="https://img.shields.io/badge/Anirudh S-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/a_n_i_r_u_d_h_s" alt="Twitter Badge"></a>
+### Languages
 
-<a target="_blank" href="https://www.instagram.com/ani._.rudh_s/">
-<img src="https://img.shields.io/badge/-Anirudh S-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/ani._.rudh_s/" alt="Instagram Badge"></a>
+- Python
+- JavaScript
+- Java
+- HTML & CSS
 
+### Frameworks and Libraries
 
-<br>
+- React
+- Node.js
+- Django
+- Flask
 
-<br>
+### Tools and Platforms
 
-  <details>
-    <summary>
-    <strong>MORE ABOUT ME</strong>
-    </summary>
+- Git & GitHub
+- Docker
+- Kubernetes
+- AWS
 
-```javascript
-const anirudh_s = {
-  availableForHire: false,
-  education: "Studying",
-  otherAlias: "Full Stack Developer",
-  codesIn: ["Javascript", "HTML", "CSS", "Python", "Bash"],
-  currentlylearning: ["AI,ML"],
-  toolsUsing: [],
-  
-}
-```
+## 📈 GitHub Stats
 
-![SUDOANIRUDH's github stats](https://github-readme-stats.vercel.app/api?username=SudoAnirudh&show_icons=true&icon_color=141414&bg_color=ffffff&hide_border=true&line_height=25&text_color=141414&hide_title=true&count_private=true)
+![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SudoAnirudh&show_icons=true&theme=radical)
 
-<img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>I'm mostly active around the internet</b> so if you want to say hi or just dropby, feel free to <a target="_blank" href="https://wa.me/919539102851"><strong> start a discussion here</strong></a>, I'll be happy to exchnage our views on dinosaurs or life or anything you fancy about ;)</b> </em>
+## 🏆 GitHub Trophies
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SudoAnirudh&theme=dracula)
 
-<a target="_blank" href="https://github.com/SudoAnirudh/SudoAnirudh">
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/visitor-badge/AnirudhS&style=for-the-badge&label=visitors&query=value&color=0F0F1A&labelColor=0F0F1A" alt="anirudh_s visitors">
-</a>
+## 📫 Connect with Me
 
-  </details>
+- [LinkedIn](https://www.linkedin.com/in/anirudh/)
+- [Twitter](https://twitter.com/SudoAnirudh)
+- [Dev.to](https://dev.to/SudoAnirudh)
+
+## 📜 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Understanding Docker and Kubernetes](https://dev.to/SudoAnirudh/understanding-docker-and-kubernetes-1a2b)
+- [Getting Started with React](https://dev.to/SudoAnirudh/getting-started-with-react-3c4d)
+- [Advanced Python Techniques](https://dev.to/SudoAnirudh/advanced-python-techniques-5e6f)
+<!-- BLOG-POST-LIST:END -->
+
+## 💼 Projects
+
+### Project 1: Open Source Contribution
+
+- **Description:** Contributed to the XYZ open-source project to improve feature ABC.
+- **Technology Used:** Python, Django
+- **Repository:** [GitHub Link](https://github.com/SudoAnirudh/xyz-project)
+
+### Project 2: Personal Website
+
+- **Description:** Created a personal portfolio website to showcase my projects and blogs.
+- **Technology Used:** HTML, CSS, JavaScript, React
+- **Repository:** [GitHub Link](https://github.com/SudoAnirudh/personal-website)
+
+---
+
+Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
