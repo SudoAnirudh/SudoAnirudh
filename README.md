@@ -1,6 +1,6 @@
 # Hi there, I'm Anirudh! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, open source, and technology.
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in development, open source, and AI/ML technology.
 
 ## 🚀 About Me
 
@@ -22,7 +22,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ### Frameworks and Libraries
 
-- React
 - Node.js
 - Django
 - Flask
@@ -30,9 +29,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ### Tools and Platforms
 
 - Git & GitHub
-- Docker
-- Kubernetes
-- AWS
+- Visual Studio Code
 
 ## 📈 GitHub Stats
 
