@@ -31,14 +31,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - Git & GitHub
 - Visual Studio Code
 
-## 📈 GitHub Stats
-
-![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SudoAnirudh&show_icons=true&theme=radical)
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SudoAnirudh&theme=dracula)
-
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/anirudh/)
@@ -48,9 +40,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 📜 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Docker and Kubernetes](https://dev.to/SudoAnirudh/understanding-docker-and-kubernetes-1a2b)
-- [Getting Started with React](https://dev.to/SudoAnirudh/getting-started-with-react-3c4d)
-- [Advanced Python Techniques](https://dev.to/SudoAnirudh/advanced-python-techniques-5e6f)
+
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 Projects
