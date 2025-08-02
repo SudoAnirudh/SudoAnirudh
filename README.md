@@ -69,3 +69,11 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" alt="Buy Me A Coffee"/>
   </a>
 </p>
+
+---
+
+### 🎮 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/SudoAnirudh/SudoAnirudh/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
