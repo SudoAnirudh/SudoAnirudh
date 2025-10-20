@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Engineer+in+Progress;Exploring+Neural+Networks+and+Edge+AI;Building+AI+Apps+with+Flutter+%26+TensorFlow;Learning+LLMs+and+Vision+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Engineer+in+Progress;Exploring+Neural+Networks;Building+AI+Apps+%26+TensorFlow;Learning+LLMs+and+Vision+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
