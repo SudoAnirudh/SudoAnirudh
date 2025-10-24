@@ -4,7 +4,7 @@
 <h3 align="center">🚀 AI/ML Student | 🤖 Deep Learning Explorer | 🌐 Open Source Innovator</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anaghaktp&label=Profile%20views&color=4db6ac&style=flat-square" alt="anaghaktp" />
+  <img src="https://komarev.com/ghpvc/?username=SudoAnirudh&label=Profile%20views&color=4db6ac&style=flat-square" alt="SudoAnirudh" />
 
 ---
 
