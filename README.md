@@ -3,6 +3,9 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#00FFFF;">Anirudh S</span></h1>
 <h3 align="center">🚀 AI/ML Student | 🤖 Deep Learning Explorer | 🌐 Open Source Innovator</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anaghaktp&label=Profile%20views&color=4db6ac&style=flat-square" alt="anaghaktp" />
+
 ---
 
 <p align="center">
