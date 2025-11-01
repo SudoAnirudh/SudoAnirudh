@@ -43,20 +43,13 @@ print(me.status())
 ```
 <h2 align="center" style="color:#00FFFF;">📊 GitHub Vibes</h2> <p align="center"> <img src="https://streak-stats.demolab.com?user=SudoAnirudh&theme=tokyonight&hide_border=true&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" height="150"/> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SudoAnirudh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00FFFF&icon_color=00FFFF" height="150"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SudoAnirudh&theme=tokyo-night&hide_border=true&area=true&custom_title=Activity+Flow+🌌"/> </p>
 
-<h2 align="center" style="color:#00FFFF; text-shadow: 0 0 15px #00FFFF;">🏆 Holopin Badge Board</h2>
+<h2 align="center" style="color:#00FFFF;">🏆 Holopin Badge Board</h2>
 
-<p align="center" style="animation: glow 2s infinite alternate;">
-  <a href="https://www.holopin.io/@sudoanirudh">
-    <img src="https://holopin.me/sudoanirudh" alt="@sudoanirudh's Holopin board" width="80%" />
+<p align="center">
+  <a href="https://www.holopin.io/@sudoanirudh" target="_blank">
+    <img src="https://holopin.me/sudoanirudh" alt="@sudoanirudh's Holopin board" width="80%" style="border-radius: 15px; box-shadow: 0 0 15px #00FFFF;"/>
   </a>
 </p>
-
-<style>
-@keyframes glow {
-  from { filter: drop-shadow(0 0 10px #00FFFF); }
-  to { filter: drop-shadow(0 0 25px #00FFFF); }
-}
-</style>
 
 
 <h2 align="center" style="color:#00FFFF;">🌐 Connect with Me</h2> <p align="center"> <a href="https://www.linkedin.com/in/sudoanirudh"><img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black"/></a> <a href="https://www.instagram.com/___anirudh.s"><img src="https://img.shields.io/badge/Instagram-ff00ff?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="mailto:anirudhsudo@gmail.com"><img src="https://img.shields.io/badge/Gmail-blueviolet?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://buymeacoffee.com/anirud"><img src="https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-00FFFF?style=for-the-badge&logo=buymeacoffee&logoColor=black"/></a> </p>
