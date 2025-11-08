@@ -13,8 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress...;Building+Edge+AI+Apps+like+a+Pro;LLMs+%7C+CV+%7C+Agents+%7C+Vibes;Innovation+Mode%3A+Always+ON;Debugging+my+way+to+Perfection+💻" alt="typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress...;Building+Edge+AI+Apps+like+a+Pro;LLMs+%7C+CV+%7C+Agents+%7C+Vibes;Innovation+Mode:+Always+ON;Debugging+my+way+to+Perfection+💻" />
 </p>
+
 
 ---
 
