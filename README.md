@@ -64,11 +64,11 @@ class Engineer:
 </div>
 
 <br />
-
----
-
 <div align="center">
   <h2 style="color:#00FFFF;">🛠️ Technical Arsenal</h2>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2200&pause=600&color=00FFFF&center=true&vCenter=true&width=700&lines=Loading+Neural+Modules...;Compiling+Skill+Tree...;Deploying+Tech+Stack..." />
+
 </div>
 
 <table align="center">
@@ -76,35 +76,48 @@ class Engineer:
     <td align="center" width="120"><b>Domain</b></td>
     <td align="center"><b>Technologies</b></td>
   </tr>
+
   <tr>
     <td align="center"><b>AI / ML</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,scikitlearn&theme=dark" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55"/>
+      <img src="https://techstack-generator.vercel.app/tensorflow-icon.svg" width="55"/>
+      <img src="https://techstack-generator.vercel.app/pytorch-icon.svg" width="55"/>
+      <img src="https://techstack-generator.vercel.app/opencv-icon.svg" width="55"/>
     </td>
   </tr>
+
   <tr>
     <td align="center"><b>Frontend</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,flutter,dart,html,css,tailwind&theme=dark" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55"/>
+      <img src="https://techstack-generator.vercel.app/flutter-icon.svg" width="55"/>
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55"/>
+      <img src="https://techstack-generator.vercel.app/html-icon.svg" width="55"/>
     </td>
   </tr>
+
   <tr>
     <td align="center"><b>Backend</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
+      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="55"/>
+      <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="55"/>
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55"/>
+      <img src="https://techstack-generator.vercel.app/firebase-icon.svg" width="55"/>
     </td>
   </tr>
+
   <tr>
-    <td align="center"><b>DevOps / Tools</b></td>
+    <td align="center"><b>DevOps</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash&theme=dark" />
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55"/>
+      <img src="https://techstack-generator.vercel.app/linux-icon.svg" width="55"/>
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55"/>
+      <img src="https://techstack-generator.vercel.app/bash-icon.svg" width="55"/>
     </td>
   </tr>
 </table>
 
-<br />
-
----
 
 <div align="center">
   <h2 style="color:#00FFFF;">📈 Analytics & Achievements</h2>
