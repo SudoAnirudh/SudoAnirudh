@@ -147,27 +147,6 @@ class Player:
 <br />
 
 <div align="center">
-  <h2 style="font-family: 'Courier New', monospace; color:#FFFFFF;">🚀 MISSION_LOG // PROJECTS</h2>
-  
-  <table style="border: 1px solid #FFFFFF; width: 80%;">
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <h3 style="color:#FFFFFF;">PROJECT_ALPHA</h3>
-        <p>A placeholder for your primary mission. Edit this to describe your top project.</p>
-        <img src="https://img.shields.io/badge/STATUS-CLASSIFIED-white?style=plastic&labelColor=black" />
-      </td>
-      <td align="center" style="padding: 10px;">
-        <h3 style="color:#FFFFFF;">PROJECT_BETA</h3>
-        <p>A placeholder for secondary objectives. Update with another project details.</p>
-        <img src="https://img.shields.io/badge/STATUS-ACTIVE-white?style=plastic&labelColor=black" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
-
-<div align="center">
   <h3 style="font-family: 'Courier New', monospace; color:#FFFFFF;">🏆 ACHIEVEMENTS_UNLOCKED</h3>
   <a href="https://www.holopin.io/@sudoanirudh">
     <img src="https://holopin.me/sudoanirudh" alt="Anirudh's Holopin Board" width="90%" />
