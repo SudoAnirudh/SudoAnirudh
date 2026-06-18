@@ -1,84 +1,113 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer;Building+Intelligent+Systems;Edge+AI+%C2%B7+Full-Stack+%C2%B7+Mobile" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI+Agents;Developing+Production+Ready+Applications;Exploring+LLMs+%26+Automation;Turning+Ideas+Into+Products" />
 
-<br/>
+<br>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding"/>
+<a href="https://github.com/SudoAnirudh">
+  <img src="https://komarev.com/ghpvc/?username=SudoAnirudh&label=Profile+Views&color=58A6FF&style=flat-square"/>
+</a>
 
 </div>
 
-<br/>
+<br>
 
-AI/ML undergraduate at Srinivas Institute of Technology, focused on building production-ready intelligent systems — from on-device ML models to full-stack AI applications.
+```bash
+anirudh@dev:~$ whoami
+```
+```
+Anirudh S — AI Engineer • Full Stack Developer • Building Intelligent Products
+```
 
----
+```bash
+anirudh@dev:~$ cat about.md
+```
+```
+I'm an AI/ML undergraduate passionate about building products that solve
+real-world problems.
 
-### Focus Areas
+  - Building AI-powered applications and agents
+  - Exploring LLMs, RAG, and intelligent workflows
+  - Full-stack development with modern web technologies
+  - Mobile and cross-platform development
+  - Open-source enthusiast
+```
 
-- 🤖 Machine learning & deep learning
-- 📱 Edge AI & mobile (TFLite, Flutter, Android)
-- 🌐 Full-stack AI product development
+```bash
+anirudh@dev:~$ cat experience.log
+```
+```
+[AI & Machine Learning Intern] — HEPro AI
 
----
+  > Developed a dedicated mentoring intelligence system
+  > Built student performance and wellness scoring frameworks
+  > Implemented clustering models for learner segmentation
+  > Designed mentor recommendation systems
 
-### Stack
+  stack: Python · Pandas · NumPy · Scikit-Learn · K-Means · Jupyter
+```
 
-**AI / ML**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+```bash
+anirudh@dev:~$ ls projects/
+```
+```
+ai-mock-interview-platform/   AI-powered interview preparation platform
+                               with feedback generation.
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+resume-analyzer/              ATS-style resume analysis using NLP and AI.
 
-**Backend & Infra**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+ai-career-assistant/          Intelligent career guidance system powered
+                               by LLM workflows.
 
-**Mobile**
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+flutter-ai-applications/      Mobile applications integrating AI capabilities
+                               on-device and through cloud inference.
+```
 
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+```bash
+anirudh@dev:~$ cat tech_stack.yaml
+```
+```yaml
+languages:   [Python, JavaScript, TypeScript, Java, Kotlin]
+ai_ml:       [TensorFlow, PyTorch, Scikit-Learn, OpenCV, Gemini API]
+full_stack:  [React, Next.js, Node.js, FastAPI, MongoDB, Firebase]
+mobile:      [Flutter, Android, Kotlin]
+tools:       [Git, Docker, Linux, Google Cloud]
+```
 
----
+```bash
+anirudh@dev:~$ git log --currently-building
+```
+```
+* AI Agents & Automation Workflows
+* RAG Applications
+* Full-Stack AI Products
+* Open Source Contributions
+* Mobile AI Experiences
+```
 
-### GitHub Stats
+```bash
+anirudh@dev:~$ ./show_activity.sh
+```
 
 <div align="center">
-
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SudoAnirudh&show_icons=true&hide_border=true&hide_title=true&hide_rank=true&theme=tokyonight&bg_color=00000000&text_color=a9b1d6&icon_color=6C63FF)
-&nbsp;
-![Streak](https://streak-stats.demolab.com?user=SudoAnirudh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=6C63FF&ring=6C63FF&fire=ff9e64&currStreakLabel=a9b1d6&sideLabels=a9b1d6&dates=565f89&currStreakNum=c0caf5&sideNums=c0caf5)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SudoAnirudh&hide_border=true&layout=compact&theme=tokyonight&bg_color=00000000&text_color=a9b1d6&icon_color=6C63FF&langs_count=8)
-
+<a href="https://github.com/SudoAnirudh">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SudoAnirudh&theme=tokyo-night"/>
+</a>
 </div>
 
----
+```bash
+anirudh@dev:~$ cat contact.json
+```
+```json
+{
+  "linkedin": "linkedin.com/in/sudoanirudh",
+  "email": "anirudhsudo@gmail.com",
+  "github": "github.com/SudoAnirudh"
+}
+```
 
-### Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudoanirudh)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anirudhsudo@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/___anirudh.s)
-
-<img src="https://komarev.com/ghpvc/?username=SudoAnirudh&style=flat-square&color=6C63FF" alt="profile views"/>
-
-</div>
+<p align="center">
+<a href="https://www.linkedin.com/in/sudoanirudh"><img src="https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=58A6FF&labelColor=000"/></a>
+<a href="mailto:anirudhsudo@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail&logoColor=58A6FF&labelColor=000"/></a>
+<a href="https://github.com/SudoAnirudh"><img src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=58A6FF&labelColor=000"/></a>
+</p>
