@@ -9,12 +9,11 @@ AI Engineer focused on Generative AI, Agentic Systems, Retrieval-Augmented Gener
 <p>
 <a href="https://portfolio-blue-five-10.vercel.app/">Portfolio</a> •
 <a href="https://github.com/SudoAnirudh">GitHub</a> •
-<a href="https://linkedin.com/in/sudoanirudh">LinkedIn</a>
+<a href="https://linkedin.com/in/sudoanirudh">LinkedIn</a> •
+<a href="https://drive.google.com/file/d/1V6g7AmD1qLFil0PY0rPI54-Rfp0RgajU/view?usp=drive_link">Resume</a>
 </p>
 
 </div>
-
----
 
 ## 🚀 What I Build
 
