@@ -1,0 +1,67 @@
+<svg width="520" height="360" viewBox="0 0 520 360" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono','SFMono-Regular',Consolas,Menlo,monospace">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1b26"/>
+      <stop offset="100%" stop-color="#181926"/>
+    </linearGradient>
+    <clipPath id="clip">
+      <rect x="0.5" y="0.5" width="519" height="359" rx="10"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect x="0.5" y="0.5" width="519" height="359" rx="10" fill="url(#bgGrad)" stroke="#292e42"/>
+
+    <!-- titlebar -->
+    <rect x="0" y="0" width="520" height="32" fill="#16161e"/>
+    <circle cx="20" cy="16" r="5.5" fill="#f7768e"/>
+    <circle cx="38" cy="16" r="5.5" fill="#e0af68"/>
+    <circle cx="56" cy="16" r="5.5" fill="#9ece6a"/>
+    <text x="260" y="20" text-anchor="middle" font-size="12" fill="#565f89">guest@{{HANDLE}}: ~</text>
+    <line x1="0" y1="32" x2="520" y2="32" stroke="#292e42"/>
+
+    <!-- prompt: whoami -->
+    <text x="24" y="58" font-size="13" fill="#c0caf5">
+      <tspan fill="#7aa2f7">$</tspan> <tspan fill="#a9b1d6">whoami</tspan>
+    </text>
+    <text x="24" y="78" font-size="14" font-weight="600" fill="#bb9af7">{{USERNAME}} <tspan fill="#565f89" font-weight="400" font-size="12">@{{HANDLE}} &#183; {{ACCOUNT_AGE}}y on GitHub</tspan></text>
+
+    <!-- prompt: git stats -->
+    <text x="24" y="112" font-size="13" fill="#c0caf5">
+      <tspan fill="#7aa2f7">$</tspan> <tspan fill="#a9b1d6">git stats --global</tspan>
+    </text>
+
+    <text x="24" y="136" font-size="13"><tspan fill="#565f89">{{REPOS_PREFIX}}</tspan><tspan fill="#bb9af7">{{REPOS}}</tspan></text>
+    <text x="24" y="156" font-size="13"><tspan fill="#565f89">{{COMMITS_PREFIX}}</tspan><tspan fill="#7aa2f7">{{COMMITS_YEAR}}</tspan></text>
+    <text x="24" y="176" font-size="13"><tspan fill="#565f89">{{STARS_PREFIX}}</tspan><tspan fill="#e0af68">{{STARS}}</tspan></text>
+    <text x="24" y="196" font-size="13"><tspan fill="#565f89">{{FOLLOWERS_PREFIX}}</tspan><tspan fill="#f7768e">{{FOLLOWERS}}</tspan></text>
+
+    <text x="270" y="136" font-size="13"><tspan fill="#565f89">{{LOC_ADD_PREFIX}}</tspan><tspan fill="#9ece6a">{{LOC_ADD}}</tspan></text>
+    <text x="270" y="156" font-size="13"><tspan fill="#565f89">{{LOC_DEL_PREFIX}}</tspan><tspan fill="#f7768e">{{LOC_DEL}}</tspan></text>
+
+    <!-- prompt: streak -->
+    <text x="24" y="228" font-size="13" fill="#c0caf5">
+      <tspan fill="#7aa2f7">$</tspan> <tspan fill="#a9b1d6">streak --check</tspan>
+    </text>
+    <text x="24" y="250" font-size="13">
+      <tspan fill="#565f89">current...</tspan><tspan fill="#e0af68">{{CURRENT_STREAK}}d</tspan>
+      <tspan fill="#565f89" dx="18">longest...</tspan><tspan fill="#9ece6a">{{LONGEST_STREAK}}d</tspan>
+      <tspan fill="#565f89" dx="18">last...</tspan><tspan fill="#c0caf5">{{LAST_COMMIT}}</tspan>
+    </text>
+
+    <!-- waveform -->
+    <text x="24" y="284" font-size="11" fill="#565f89">contribution waveform &#183; last 52 weeks</text>
+    <g transform="translate(24, 290)">
+      {{WAVEFORM_BARS}}
+    </g>
+
+    <!-- cursor line -->
+    <text x="24" y="340" font-size="13" fill="#c0caf5">
+      <tspan fill="#7aa2f7">$</tspan>
+      <rect x="34" y="329" width="8" height="14" fill="#c0caf5">
+        <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.4;0.5;0.9;1" dur="1.1s" repeatCount="indefinite"/>
+      </rect>
+    </text>
+    <text x="496" y="340" font-size="10" fill="#414868" text-anchor="end">{{GENERATED_AT}}</text>
+  </g>
+</svg>
