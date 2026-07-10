@@ -115,11 +115,7 @@ Offline-first AI solution for cattle disease and breed identification.
 ## 📈 GitHub Activity
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SudoAnirudh&show_icons=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SudoAnirudh&hide_border=true"/>
-
+  <img src="./card.svg" alt="My GitHub stats" />
 </div>
 
 ---
