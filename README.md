@@ -1,143 +1,64 @@
 <div align="center">
 
-# Anirudh S
+# ⚡ Anirudh S
 
-### Building AI Products That Solve Real Problems
+<a href="https://github.com/SudoAnirudh">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=540&lines=AI%2FML+Engineer+%26+Full-Stack+Builder;Custom+ReAct+Agents+%E2%80%A2+Recovery+Engines;FastAPI+%2B+pgvector+%2B+Next.js;Sub-200ms+Inference+%E2%80%A2+Production+AI" alt="Typing SVG" />
+</a>
 
-AI Engineer focused on Generative AI, Agentic Systems, Retrieval-Augmented Generation, and Full-Stack AI Applications.
-
-<p>
-<a href="https://portfolio-blue-five-10.vercel.app/">Portfolio</a> •
-<a href="https://github.com/SudoAnirudh">GitHub</a> •
-<a href="https://linkedin.com/in/sudoanirudh">LinkedIn</a> •
-<a href="https://drive.google.com/file/d/1V6g7AmD1qLFil0PY0rPI54-Rfp0RgajU/view?usp=drive_link">Resume</a>
+<p align="center">
+  <a href="https://portfolio-blue-five-10.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/sudoanirudh"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" /></a>
+  <a href="https://drive.google.com/file/d/1V6g7AmD1qLFil0PY0rPI54-Rfp0RgajU/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=googledrive&logoColor=58A6FF" alt="Resume" /></a>
+  <a href="mailto:anirudhsudheer@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email" /></a>
 </p>
 
 </div>
 
-## 🚀 What I Build
-
-I build production-ready AI applications that combine LLMs, vector search, modern backend systems, and intuitive user experiences.
-
-My work focuses on:
-
-- 🤖 AI Agents & Agentic Workflows
-- 🧠 Generative AI Applications
-- 🔍 RAG & Semantic Search Systems
-- ⚡ FastAPI Backends
-- 📊 AI-Powered Analytics Platforms
-- 📱 AI + Mobile Experiences
-
----
-
-## 🌟 Featured Work
-
-### Hirenix — AI Career Intelligence Platform
-
-An AI-powered platform that evaluates candidates beyond keyword matching.
-
-**Highlights**
-
-- Resume Intelligence Engine
-- GitHub Production Index (GPI)
-- Semantic Job Matching
-- AI Interview Simulator
-- Career Roadmap Generator
-
-**Stack**
-
-`Next.js` `FastAPI` `Supabase` `pgvector` `NVIDIA NIM` `Groq`
-
-🔗 Live: https://hirenix-frontend.vercel.app
-
-🔗 Repo: https://github.com/SudoAnirudh/Hirenix
+```yaml
+anirudh@systems:~$ cat spec.yml
+focus:
+  - Custom ReAct Agent loops with runtime recovery & self-correction
+  - Multi-provider LLM orchestration (Groq, NVIDIA NIM, Gemini)
+  - Low-latency retrieval (pgvector) & async microservices (FastAPI)
+benchmarks:
+  latency: "sub-200ms scoring API response time"
+  reliability: "0/10 unresolvable failures across eval tasks"
+  scale: "1,230+ entities ingested with 518 automated merges"
+```
 
 ---
 
-### Nimma Guru
+### 🚀 Production Systems
 
-Community mentorship platform connecting students with mentors using AI-powered recommendations and voice interactions.
-
-**Stack**
-
-`Kotlin` `Jetpack Compose` `Firebase` `Gemini`
-
----
-
-### PashuSwasthya
-
-Offline-first AI solution for cattle disease and breed identification.
-
-**Stack**
-
-`Flutter` `TensorFlow Lite` `Python` `NLP`
-
-🔗 https://github.com/SudoAnirudh/PashuSwasthya
+| System | Core Architecture | Verified Metric | Artifacts |
+| :--- | :--- | :---: | :---: |
+| **[Hirenix](https://github.com/SudoAnirudh/Hirenix)** | AI Career Intelligence platform · `FastAPI` `pgvector` `Next.js` `NVIDIA NIM` | `sub-200ms` API | [Live App](https://hirenix-frontend.vercel.app) • [Code](https://github.com/SudoAnirudh/Hirenix) |
+| **[Self-Correcting Agent](https://github.com/SudoAnirudh)** | Autonomous agent with custom ReAct loop & runtime recovery engine | `0/10` failures | [Code](https://github.com/SudoAnirudh) |
+| **[MessyData](https://github.com/SudoAnirudh)** | Entity resolution, deduplication & golden record data pipeline | `518` merges | [Code](https://github.com/SudoAnirudh) |
+| **[PashuSwasthya](https://github.com/SudoAnirudh/PashuSwasthya)** | Offline edge ML cattle disease & breed detection · `TFLite` `Flutter` | Edge inference | [Code](https://github.com/SudoAnirudh/PashuSwasthya) |
 
 ---
 
-## ⚙️ Tech Stack
+### 🛠️ Stack & Infrastructure
 
-### AI & GenAI
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,postgres,supabase,docker,nextjs,react,ts,flutter,kotlin,git&perline=12" alt="Skill Icons" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-111?style=for-the-badge)
-![NVIDIA NIM](https://img.shields.io/badge/NVIDIA_NIM-111?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-111?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111?style=for-the-badge)
-
-### Backend & Infrastructure
-
-![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge)
-![Supabase](https://img.shields.io/badge/Supabase-111?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge)
-
-### Frontend & Mobile
-
-![React](https://img.shields.io/badge/React-111?style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-111?style=for-the-badge)
-![Flutter](https://img.shields.io/badge/Flutter-111?style=for-the-badge)
-![Kotlin](https://img.shields.io/badge/Kotlin-111?style=for-the-badge)
+`Python` • `FastAPI` • `TensorFlow Lite` • `pgvector` • `Supabase` • `Docker` • `Groq` • `NVIDIA NIM` • `Next.js`
 
 ---
 
-## 🎯 Current Focus
-
-- Building AI Agents
-- Advanced RAG Architectures
-- Production AI Systems
-- AWS & Cloud Infrastructure
-- Open Source Contributions
-
----
-
-## 📈 GitHub Activity
+### 📈 Activity
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SudoAnirudh&show_icons=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SudoAnirudh&hide_border=true"/>
-
+  <img height="135" src="https://github-readme-stats.vercel.app/api?username=SudoAnirudh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
+  <img height="135" src="https://github-readme-streak-stats.herokuapp.com/?user=SudoAnirudh&theme=github_dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🤝 Let's Connect
-
-📧 anirudhsudheer@gmail.com
-
-🌐 https://portfolio-blue-five-10.vercel.app
-
-💼 https://linkedin.com/in/sudoanirudh
-
-🐙 https://github.com/SudoAnirudh
-
----
-
 <div align="center">
-
-### Turning AI ideas into products people actually use.
-
+<sub>Open to AI/ML & Full-Stack AI engineering roles • <a href="mailto:anirudhsudheer@gmail.com">anirudhsudheer@gmail.com</a></sub>
 </div>
